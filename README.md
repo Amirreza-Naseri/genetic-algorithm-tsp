@@ -29,17 +29,17 @@ The GA improved the fixed-start nearest-neighbor baseline by **6.30%** on this b
 
 ### Best route
 
-![Best route](genetic-algorithm-tsp
+![Best route](genetic-algorithm-tsp-final
 /results/images/best_route.png)
 
 ### Convergence
 
-![Convergence](/genetic-algorithm-tsp
+![Convergence](genetic-algorithm-tsp-final/
 results/images/convergence.png)
 
 ### Baseline comparison
 
-![Baseline comparison](/genetic-algorithm-tsp
+![Baseline comparison](genetic-algorithm-tsp-final/
 results/images/baseline_comparison.png)
 
 ## Algorithm
