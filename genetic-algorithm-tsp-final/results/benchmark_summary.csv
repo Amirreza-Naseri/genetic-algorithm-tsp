@@ -1,0 +1,8 @@
+metric,value
+n_cities,30
+seed,7
+random_tour_mean,1600.9944048666605
+greedy_length,583.3500051380465
+ga_best_length,546.6269821827542
+ga_improvement_vs_greedy_percent,6.2951954455887975
+generations_executed,202
