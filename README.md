@@ -1,0 +1,1 @@
+Genetic Algorithm for Traveling Salesman Problem — Implemented a reproducible permutation-based GA with IPMX crossover, paper-specified linear mutation, tournament selection, elitism, greedy initialization, early stopping, automated tests, and convergence/route visualizations; improved a fixed-start nearest-neighbor baseline by 6.3% on a deterministic 30-city benchmark.
